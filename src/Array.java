@@ -11,11 +11,8 @@ public class Array {
         System.out.println("Balance exists: " + checkBalance(createRandomArray(10, 20)));
         System.out.println("Balance exists: " + checkBalance(new int[]{2, 2, 2, 1, 2, 2, 10, 1}));
         moveArray(createRandomArray(6, 10), 3);
-        moveArray(createRandomArray(10,20),-3);
-
-
+        moveArray(createRandomArray(10,20),-4);
     }
-
     // Task 1
     static void changeArray(int[] inputArray) {
         System.out.println("Task  1.");
@@ -138,7 +135,6 @@ public class Array {
             }
             System.out.println(Arrays.toString(inputArray));
         }
-
     }
 }
 
