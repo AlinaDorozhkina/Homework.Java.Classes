@@ -1,5 +1,3 @@
-import com.sun.scenario.animation.shared.ClipEnvelope;
-import javafx.scene.effect.Blend;
 
 import java.util.Arrays;
 
